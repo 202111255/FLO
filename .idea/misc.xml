@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/activity_main.xml" value="0.20092592592592592" />
-        <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/activity_song.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_album.xml" value="0.1" />
+        <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_home.xml" value="0.16030534351145037" />
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_locker.xml" value="0.20092592592592592" />
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_look.xml" value="0.20092592592592592" />
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_search.xml" value="0.20092592592592592" />
