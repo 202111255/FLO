@@ -35,6 +35,19 @@ class HomeFragment : Fragment() {
         binding.homeBannerVp.orientation = ViewPager2.ORIENTATION_HORIZONTAL
         //뷰페이저가 좌우로 스크롤 될 수 있게
 
+        val backgroundAdapter = BackgroundVPAdapter(this)
+        backgroundAdapter.addFragment(BackgroundFragment(R.drawable.img_first_album_default))
+        backgroundAdapter.addFragment(BackgroundFragment(R.drawable.img_second_album_default))
+        backgroundAdapter.addFragment(BackgroundFragment(R.drawable.img_third_album_default))
+        backgroundAdapter.addFragment(BackgroundFragment(R.drawable.img_4th_album_default))
+        backgroundAdapter.addFragment(BackgroundFragment(R.drawable.img_5th_album_default))
+        binding.homePannelBackgroundVp.adapter = backgroundAdapter
+        binding.homePannelBackgroundVp.orientation = ViewPager2.ORIENTATION_HORIZONTAL
+        //background 이미지 설정
+
+        binding.indicator.setViewPager(binding.homePannelBackgroundVp)
+
+
         return binding.root
     }
 }
