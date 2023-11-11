@@ -17,6 +17,8 @@
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_detail.xml" value="0.1" />
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_locker.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_locker_musicfile.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_locker_savedsong.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_look.xml" value="0.20092592592592592" />
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_savedsong.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_search.xml" value="0.20092592592592592" />
@@ -24,6 +26,7 @@
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_songfile.xml" value="0.215625" />
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_video.xml" value="0.1" />
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/item_album.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/item_song.xml" value="0.17777777777777778" />
         <entry key="..\:/Users/kbd11/AndroidStudioProjects/FLO/app/src/main/res/layout/selector_indicator.xml" value="0.21666666666666667" />
       </map>
     </option>
